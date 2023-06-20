@@ -18,12 +18,12 @@ nav{
     margin-bottom: 100px;
 }
 
-nav ul li a{
+a{
     color: white;
     text-decoration: none;
 }
 
-nav ul li a:hover{
+a:hover{
     color: #00BFA6;
 }
 
@@ -45,6 +45,10 @@ main{
     justify-content: space-between;
 }
 
+main img{
+    padding-right: 77px;
+}
+
 
 
 section h1 {
@@ -55,6 +59,8 @@ section h1 {
 
 footer{
     font-family: 'JetBrains Mono', monospace;
+    text-align: center;
+    margin-top: 157px;
 }
 
 span{
